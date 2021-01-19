@@ -2,3 +2,11 @@
 	height: 100vh;
 	background-image: linear-gradient(to right, #051421, #042727);
 }
+
+.app::-webkit-scrollbar {
+	display: none;
+}
+.app {
+	-ms-overflow-style: none;
+	scollbar-width: none;
+}

@@ -1,7 +1,6 @@
 .header {
 	color: white;
 	display: flex;
-	/* background-color: black; */
 	justify-content: space-between;
 	padding: 20px;
 	box-sizing: border-box;
